@@ -13,7 +13,7 @@ const bot = new TelegramBot(TOKEN, {
         }
     }
 })
-console.log('ok------------------------------------------------------ok')
+console.log('ok-------------------------------------------------ok')
 
 
 bot.onText(/\/pay/, msg => {
